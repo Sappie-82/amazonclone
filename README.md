@@ -26,8 +26,8 @@ A live demo of this app is available at https://challange-96539.web.app/
 TTo run the Amazon Clone App locally on your machine, follow these steps:
 
 Ensure you have Node.js and npm installed on your computer.
-Clone this repository to your local machine using git clone https://github.com/your-username/amazon-clone-app.git
-Navigate to the project directory: cd amazon-clone-app
+Clone this repository to your local machine using git clone https://github.com/Sappie-82/amazonclone.git
+Navigate to the project directory: cd amazon-clone
 Install the required dependencies: npm install
 
 ## Usage
