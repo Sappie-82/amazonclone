@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Amazon Clone App
+Welcome to the Amazon Clone App repository! This project is a web application that aims to replicate the core functionalities and user interface of the popular e-commerce platform, Amazon. With this app, users can browse through a wide range of products, add items to their cart, proceed to checkout, and make purchases securely.
 
 ## Available Scripts
 
